@@ -25,6 +25,16 @@ To achieve this, you will need to:
   - ⚡ Movement speed
   - 💥 Fire rate
 
+## 🎮 Controls (AZERTY layout)
+
+- `Q` → Move Left  
+- `D` → Move Right  
+- `Z` → Move Up  
+- `S` → Move Down  
+- Arrow Keys → Shoot (Up, Down, Left, Right)
+
+> 💡 This game uses **AZERTY** key layout by default.
+
 ## 🚧 Work in Progress
 
 This game is a **prototype**, and there are many aspects still under development, including:
@@ -43,6 +53,10 @@ This game is a **prototype**, and there are many aspects still under development
 ## 📸 Screenshots
 
 > _Screenshots of the game will be added here soon._
+![Screenshot 2025-03-28 102130](https://github.com/user-attachments/assets/2a8c73a6-d56e-45f7-bb63-df428fdfc174)
+![Screenshot 2025-03-28 102226](https://github.com/user-attachments/assets/da109661-3b95-45eb-82ee-cc3b39689d33)
+![Screenshot 2025-03-28 102512](https://github.com/user-attachments/assets/80fc14e0-9d2f-4b24-8d26-f6ad4c03ebf8)
+
 
 ---
 
